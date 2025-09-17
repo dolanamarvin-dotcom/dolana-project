@@ -10,4 +10,22 @@ h2, h3{ color: rgb(167, 16, 122);
 
 p { color:rgb(8, 3, 0)}
 
-h1{margin: 20px; margin-left: 20px; background-color: rgb(28, 146, 146);padding: 70px; padding: 20px; border-radius: 12px;
+h1{margin: 20px; margin-left: 20px; background-color: rgb(61, 214, 163);padding-left: 70px;padding: 20px; border-radius: 12px;}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+a:link{
+    color:rgb(12, 16, 233);
+}
+
+a:visited{
+    color:rgb(9, 9, 223);
+}
+a:hover{
+    color:rgb(196, 25, 167);
+}
+
+a:active{
+    color: black;
+}
